@@ -3,7 +3,7 @@ import connectDB from "./db/connectdb.js";
 import { join } from "path";
 import web from "./routes/web.js";
 const app = express();
-const port = process.env.PORT || "3000";
+const port = process.env.PORT || "4000";
 const DATABASE_URL = process.env.DATABASE_URL || "mongodb://localhost:27017";
 
 // Database Connection
