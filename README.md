@@ -4,25 +4,25 @@
 
  CREATE, READ, UPDATE and DELETE. a simple project in crud method on operations.
 
-## Requirements
+## ⚙️ Requirements
 + [Npm](https://www.npmjs.com/package/download)
 + [mongoDB Compass](https://www.mongodb.com/try/download/shell)
 + [Express](https://expressjs.com/)
 + [Nodejs](https://nodejs.org/en/download)
 
 
-## Languages or Frameworks Used
+##  🛠 Languages or Frameworks Used
 ### Steps to create project and install required module:
 
 #### step 1: Start the project using the following command in your project folder:
 
 + `npm init`
 
-### Package.json file look like
+###  📃 Package.json file look like 👇
 
 ![Screenshot from 2023-04-04 22-24-59](https://user-images.githubusercontent.com/128680209/229863193-8225570b-8c60-4eb8-82c2-3de9462d3552.png)
 
-#### Step 2: Install the required modules using following command:
+####  📥 Step 2: Install the required modules using following command:
 
 + `npm install express`
 + `npm install ejs`
@@ -83,7 +83,7 @@
 
 + `npm install`
   
-##  Steps to run the application -
+## 🌟 Steps to run the application -
 #### Step 1: Type the following command in terminal of your project directory:
 
 + `npm run dev`
@@ -92,5 +92,15 @@
 
 + `(http://localhost:3000/ or http://localhost:8000/)`
 
+##  📺 Output:
 
-##  Output:
+### create student
+![Screenshot from 2023-04-04 23-12-45](https://user-images.githubusercontent.com/128680209/229875107-7e1b798c-d827-457d-b1f6-c7e2e698267b.png)
+![Screenshot from 2023-04-04 23-13-11](https://user-images.githubusercontent.com/128680209/229875406-e3e52766-0a6d-457d-818b-e65651c76638.png)
+
+### update student
+![Screenshot from 2023-04-04 23-13-57](https://user-images.githubusercontent.com/128680209/229875512-9dc7778b-5994-4e9c-a4e3-d96cde83d11e.png)
+
+### delete student
++ deleted as forth list of student 
+![delete student ](https://user-images.githubusercontent.com/128680209/229875659-dd22a499-a837-4915-857b-e35e7568177f.png)
